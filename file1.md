@@ -5,3 +5,5 @@ first line. Thanks
 now take this
 
 this line is on new branch
+
+this added on feature/branch2
